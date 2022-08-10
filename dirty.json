@@ -1,0 +1,10 @@
+[{ "role_id": "1", "info": { "name": "Justin Doe", "phone": "123-1212", "salary": 80000}, "category": "sales"},
+{ "role_id": "2", "info": { "name": "Luke Doe", "phone": "123-1214", "salary": 50000}, "category": "Tek"},
+{ "role_id": "3", "info": { "name": "Matt Doe", "phone": "123-1213", "salary": 40000}, "category": "sell"},
+{ "role_id": "1", "info": { "name": "Justin Doe", "phone": "123-1215", "salary": 80000}, "category": "Tek"},
+{ "role_id": "4", "info": { "name": "Luiz Doe", "phone": "123-1216", "salary": 57000}, "category": "sale"},
+{ "role_id": "a", "info": { "name": "Beau Doe", "phone": "123-1217", "salary": 55000}, "category": "media"},
+{ "role_id": "6", "info": { "name": "Rose Doe", "phone": "123-1218", "salary": 50000}, "category": "sales"},
+{ "role_id": "7", "info": { "name": "Lee Doe", "phone": "123-1219", "salary": 70000}, "category": "management"},
+{ "role_id": "8", "info": { "name": "", "phone": "123-2120", "salary": 50000}, "category": "sales"},
+{ "role_id": "9", "info": { "name": "jane Doe", "phone": "123-1212", "salary": 50000}, "category": "sales"}]
